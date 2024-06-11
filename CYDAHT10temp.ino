@@ -18,7 +18,7 @@ void setup() {
     while (1) delay(10);
   }
   tft.init();
-  tft.setRotation(3);  // Adjust screen rotation if needed(3 is landscape usb on left)(X=320 W=240)
+  tft.setRotation(3);  // Adjust screen rotation if needed(3 is landscape usb on left)(W=320 H=240)
   tft.fillScreen(TFT_BLACK);
   tft.setTextColor(TFT_WHITE);
   tft.setTextSize(2);
