@@ -9,3 +9,6 @@ Make sure to set up TFT_espi User_Setup to be correct for your board
 For much more detailed information and help for the CYD boards see_ https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display.
 
 Also here is a link to the correct CYD_2usb User_Setup for the TFT_espi library for the later version of the CYD https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display/blob/main/DisplayConfig/CYD2USB/User_Setup.h
+
+
+![Bruce _Marks_dualscreenCYD32jpg](https://github.com/user-attachments/assets/e15904fb-0cb3-4c75-ad14-bc1affc2ada6)
